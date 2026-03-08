@@ -114,3 +114,4 @@ Interested in **Data Analysis, Data Visualization, and Business Insights**
 ---
 
 ⭐ If you found this project useful, feel free to **star the repository**.
+<img width="1861" height="886" alt="Screenshot 2026-02-24 010437" src="https://github.com/user-attachments/assets/fcdf8675-51cb-4a57-9055-43309c5d135b" />
