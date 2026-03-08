@@ -106,7 +106,7 @@ Future enhancements could include:
 
 ## 👨‍💻 Author
 
-**Albert Elbadri**
+**Albert Albadry**
 
 Engineering Student | Data Analysis Learner
 Interested in **Data Analysis, Data Visualization, and Business Insights**
